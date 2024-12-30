@@ -12,7 +12,7 @@
 30.12 - 5.01
 |                  | Mon               | Tue                          | Wed                | Thu                 | Fri             | Sat                                        | Sun             |
 | ---------------- | ----------------- | ---------------------------- | ------------------ | ------------------- | --------------- | ------------------------------------------ | --------------- |
-| Breakfast        | Jogurt (Müssli)   | scrambled eggs               | grilled sandwich   | Französischer Toast | gedämpftes Ei   | Oehme                                      | Oehme           |
+| Breakfast        | Jogurt (Müssli)   | banana oatmeal cake          | grilled sandwich   | Französischer Toast | gedämpftes Ei   | Oehme                                      | Oehme           |
 | Vormittag Spiel  | Malen (Tree)      | Bibliothek                   | Malen (Firework)   |                     |                 |                                            |                 |
 | Snack            | Paprika, Bananen  | Möhren, Granatapfel          |                    |                     |                 |                                            |                 |
 | Lunch            | Pizza             | Miyeok-guk                   | Tofu Jeon          | Doenjang-jjigae     | Thunfisch-Jeon  | https://www.youtube.com/shorts/Y3MJmiRpfQA | food-jung Suppe |
